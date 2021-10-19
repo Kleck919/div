@@ -1,0 +1,102 @@
+body{
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: lavenderblush;
+}
+h1{
+    text-align: center;
+}
+.top{
+    width: 400px;
+    height: 210px;
+    margin-left: 350px;
+}
+.red{
+    background-color: red;
+    border: red 30px solid;
+}
+.green{
+    background-color: green;
+    border: green 30px solid;
+}
+.blue{
+    background-color: blue;
+    border: blue 30px solid;
+}
+.red2{
+    background-color: red;
+    border: red 30px solid;
+    width: 77px;
+}
+.green2{
+    background-color: green;
+    border: green 30px solid;
+    width: 77px;
+}
+.blue2{
+    background-color:blue;
+    border: blue 30px solid;
+    width: 77px;
+}
+.ds{
+    display: flex;
+    float: left;
+    width: 400px;
+}
+.yellow{
+    background-color: yellow;
+    border: yellow 30px solid;
+    width: 400px;
+}
+.grey{
+    background-color: gray;
+    border: gray 30px solid;
+    width: 140px;
+}
+.black{
+    background-color: black;
+    border: black 30px solid;
+    width: 140px;
+}
+.midle{
+    width: 400px;
+    height: 210px;
+    margin-left: 350px;
+}
+.sd{
+    display: flex;
+    float: left;
+}
+.cen{
+    width: 400px;
+    display: flex;
+    float: none;
+}
+.gran{
+    background-color: red;
+    border: red 30px solid;
+    border-style: solid;
+    border-color: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+.down{
+    display: flex;
+    float: left;
+    margin-left: 350px;
+}
+.pad{
+    background-color: green;
+    border: green 30px solid;
+    border-style: solid;
+    border-color: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+.dop{
+    background-color:blue;
+    border: blue 30px solid;
+    border-style: solid;
+    border-color: lightgreen;
+    width: 100px;
+    height: 100px;    
+}
